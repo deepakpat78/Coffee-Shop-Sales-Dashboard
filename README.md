@@ -5,7 +5,7 @@ This project presents an Excel-based Coffee Shop Sales Dashboard designed to ana
 The dashboard provides a simple visual overview of key sales metrics and helps identify high-performing categories, locations, and sales periods.
 
 ## Dashboard Preview
-![Coffee Shop Sales Dashboard](dashboard/coffee_shop_sales_dashboard.png)
+![Coffee Shop Sales Dashboard](Coffee-Shop.jpeg)
 
 ## Key Metrics
 - Total Sales: $23,653
